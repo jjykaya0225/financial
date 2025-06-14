@@ -1,0 +1,14 @@
+# Tableau 임시/복구 파일 무시
+*.twbr
+~*
+
+# 파이썬 관련 (필요하면 추가)
+__pycache__/
+*.pyc
+
+# Jupyter Notebook 체크포인트 (필요하면)
+.ipynb_checkpoints/
+
+# 기타 운영체제 숨김 파일
+.DS_Store
+Thumbs.db
